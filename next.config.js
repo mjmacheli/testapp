@@ -3,7 +3,7 @@ module.exports = {
     async headers() {
         return [
             {
-                source: '/.well-known/assetlinks.json',
+                source: '/.well-known/assetlinks',
                 headers: [
                     {
                         key: 'Content-Type',
