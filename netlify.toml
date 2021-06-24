@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "/.well-known/assetlinks.json"
-  to = "/.well-known/assetlinks.json"
-  status = 200
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
